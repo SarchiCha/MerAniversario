@@ -8,19 +8,19 @@
 </head>
 <body>
     <header>
-        <h1>¡Feliz Tercer Aniversario en el Parque Warner!</h1>
-        <p>Mi amor, celebremos en el Parque Warner de Madrid, rodeados de aventuras y corazones.</p>
+        <h1>¡Felices 3 años!</h1>
+        <p>Mi amor, nos vamos al Parque Warner de Madrid?.</p>
     </header>
 
     <main>
         <section id="love-section">
             <h2>Nuestro Amor en el Parque Warner</h2>
             <div class="hearts">
-                <img src="https://www.pngall.com/wp-content/uploads/2016/04/Heart-Free-Download-PNG.png" alt="Corazón" width="100">
-                <img src="https://www.pngall.com/wp-content/uploads/2016/04/Heart-Free-Download-PNG.png" alt="Corazón" width="100">
-                <img src="https://www.pngall.com/wp-content/uploads/2016/04/Heart-Free-Download-PNG.png" alt="Corazón" width="100">
+                <img src="https://www.freepik.es/foto-gratis/pareja-haciendo-corazon-manos-orilla-mar_3616343.htm#query=amor%20corazon&position=4&from_view=keyword&track=ais_hybrid&uuid=93ed1004-5648-47d8-9b3e-1231a933977b" width="100">
+                <img src="https://www.freepik.es/foto-gratis/pareja-haciendo-corazon-manos-orilla-mar_3616343.htm#query=amor%20corazon&position=4&from_view=keyword&track=ais_hybrid&uuid=93ed1004-5648-47d8-9b3e-1231a933977b" width="100">
+                <img src="https://www.freepik.es/foto-gratis/pareja-haciendo-corazon-manos-orilla-mar_3616343.htm#query=amor%20corazon&position=4&from_view=keyword&track=ais_hybrid&uuid=93ed1004-5648-47d8-9b3e-1231a933977b" alt="Corazón" width="100">
             </div>
-            <p>Este aniversario será inolvidable, te amo con todo mi corazón. 🧡</p>
+            <p>Te amo con todo mi corazón. 🤍</p>
         </section>
 
         <section id="calendar-section">
@@ -30,7 +30,7 @@
     </main>
 
     <footer>
-        <p>Con todo mi amor, para ti. Parque Warner Madrid 2023.</p>
+        <p>Te amo muchisimo.</p>
     </footer>
 
     <script>
