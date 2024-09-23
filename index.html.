@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parque Warner Madrid - Nuestro Amor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>¡Feliz Tercer Aniversario en el Parque Warner!</h1>
+        <p>Mi amor, celebremos en el Parque Warner de Madrid, rodeados de aventuras y corazones.</p>
+    </header>
+
+    <main>
+        <section id="love-section">
+            <h2>Nuestro Amor en el Parque Warner</h2>
+            <div class="hearts">
+                <img src="https://www.pngall.com/wp-content/uploads/2016/04/Heart-Free-Download-PNG.png" alt="Corazón" width="100">
+                <img src="https://www.pngall.com/wp-content/uploads/2016/04/Heart-Free-Download-PNG.png" alt="Corazón" width="100">
+                <img src="https://www.pngall.com/wp-content/uploads/2016/04/Heart-Free-Download-PNG.png" alt="Corazón" width="100">
+            </div>
+            <p>Este aniversario será inolvidable, te amo con todo mi corazón. 🧡</p>
+        </section>
+
+        <section id="calendar-section">
+            <h2>Elige una fecha para nuestra visita</h2>
+            <input type="date" id="visit-date" min="2023-10-01" max="2023-11-30">
+        </section>
+    </main>
+
+    <footer>
+        <p>Con todo mi amor, para ti. Parque Warner Madrid 2023.</p>
+    </footer>
+
+    <script>
+        const dateInput = document.getElementById('visit-date');
+        dateInput.addEventListener('change', (event) => {
+            alert('¡La fecha que elegiste es: ' + event.target.value + '!');
+        });
+    </script>
+</body>
+</html>
