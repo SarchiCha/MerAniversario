@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #ff5a5f;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+main {
+    margin: 20px;
+}
+
+#love-section {
+    margin-top: 20px;
+}
+
+.hearts {
+    margin: 10px 0;
+}
+
+#calendar-section {
+    margin-top: 30px;
+}
+
+input[type="date"] {
+    padding: 10px;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #ff5a5f;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
